@@ -1,1 +1,1 @@
-# Abertura-de-Pagina-gsap
+# Carregamento inicial de pagina utilizando gsap.
